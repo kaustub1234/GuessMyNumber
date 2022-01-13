@@ -9,10 +9,12 @@ zero the user losses the game and he has to try again. Hope you like this game ð
 
 The game is built using html, css and javascript.
 
+## Live Demo
+the project is hosted live on below link:
+https://kaustub1234.github.io/MonthlyExpenseTracker/
+
 
 ## Demo
-
-
 
 https://user-images.githubusercontent.com/56251255/143732373-6ca3e90d-ce42-4a57-81c4-29709b826a69.mp4
 ## Starting the app
