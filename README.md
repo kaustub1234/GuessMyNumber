@@ -11,7 +11,7 @@ The game is built using html, css and javascript.
 
 ## Live Demo
 the project is hosted live on below link:
-https://kaustub1234.github.io/MonthlyExpenseTracker/
+https://kaustub1234.github.io/GuessMyNumber/GuessMyNumber/
 
 
 ## Demo
